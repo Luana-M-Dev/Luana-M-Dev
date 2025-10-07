@@ -1,36 +1,90 @@
-# Hi, I'm Luana Maria 👋🇸🇪
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
-I'm a professional career changer with a background in **Law** and **Front-End Development**. I am currently focused on building a solid foundation in **Python**, **Data Science**, and **Programming Logic** for the tech market in Sweden.
+<br>
 
----
-
-## 🚀 Skill Stack & Background
-
-| Category | Technologies | Icons |
-| :--- | :--- | :--- |
-| **Primary Focus** | Python (Fundamentals, Data Structures) | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **Front-End Background** | JavaScript, TypeScript, React, HTML, CSS | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Logic & Structures** | **LOGIC:** For/While Loops, If/Else, Data Types | ![Logic](https://img.shields.io/badge/Logic-5C5C5C?style=for-the-badge&logo=logic&logoColor=orange) |
-| **Data Structures** | Lists, Tuples, Dictionaries, Slicing | ![Data](https://img.shields.io/badge/Data%20Structures-9CF?style=for-the-badge&logo=data%2Eworld&logoColor=white) |
-| **Tools & Versioning** | Git, GitHub, SQL (Basic), Obsidian | ![Git](https://img.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-for-the-badge&logo=mysql&logoColor=white) |
-| **Non-Tech Expertise** | **Law / Legal Analysis** (Strong Analytical Skills) | ⚖️ |
-
----
-
-## 📈 My Current Development & Statistics
-
-[![Luana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luana-M-Dev&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Luana-M-Dev)
-
-### Current Study Focus
-- **Repository:** `Python_Fundamentos_e_Logica` (First project coming soon!)
-- **Next Up:** Object-Oriented Programming (OOP) and advanced Data Libraries (Pandas/NumPy).
-
----
-
-## 📧 Connect with Me
-
-<div>
-  <a href="https://www.linkedin.com/in/luana-maria-da-silva-de-freitas-84382512a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:luanamariasuecia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luanabin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center">
+  
+  <b>`PROGRAMMER`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Luana Maria</b>
+  </samp>
 </div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=Career+Changer+%E2%80%A2+Law+to+Python;Aspiring+Junior+Developer+in+Sweden;Focused+on+Python%2C+Data+%26+Logic;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Luana_%E2%99%A1-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Luana-M-Dev&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-M-Dev&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luana-M-Dev&theme=omni"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="SQL" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" />
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:luanamariasuecia@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-6e3a5d?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/luanabin/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/luana-maria-da-silva-de-freitas-84382512a/)
+    
+</div>
+
+<br>
+
+</details>
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLuana-M-Dev&s=30&c=ff79c6&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
