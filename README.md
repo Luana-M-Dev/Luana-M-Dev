@@ -1,6 +1,6 @@
 <!-- NEON TERMINAL WINDOW -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FFE600&background=0D1117&border=FF2A85&center=true&vCenter=true&multiline=true&width=750&height=130&lines=%3E+Hi,+I+am+Luana!+%F0%9F%8C%B5+%E2%9D%84%EF%B8%8F;%3E+From+Cear%C3%A1+to+Stockholm+%F0%9F%87%A7%F0%9F%87%B7%E2%9E%A1%EF%B8%8F%F0%9F%87%B8%F0%9F%87%AA" alt="Terminal Luana" />
+  <img src="./neon-window.svg" alt="Terminal Neon Luana" />
 </p>
 
 <!-- LANGUAGES -->
